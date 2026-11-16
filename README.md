@@ -1,6 +1,6 @@
 # FreshWise
 
-Prose word count: 186
+Prose word count: 193
 
 ## Status
 A Streamlit prototype for pantry tracking and explainable recipe recommendations. Implemented: date flags, add/edit/remove pantry entries, a fixed five-recipe catalogue, rule-based ranking, explanation toggle and session-only dismissal. Recommendation and date logic is simulated with explicit rules; no trained AI model or food-safety assessment is used. Pantry data is not saved permanently.
@@ -21,7 +21,6 @@ A Streamlit prototype for pantry tracking and explainable recipe recommendations
 - Stage 3: prepared a report with the system flow and interaction examples.
 
 ## AI assistance
-ChatGPT/Codex helped propose and implement rule-based recommendation code, draft report prose, and organise diagram/storyboard content. The author should verify claims and references against the app and course material.
-
+ChatGPT/Codex helped propose and implement rule-based recommendation code, draft report prose, and organise diagram/storyboard content.
 ## Additional files
-The report is `FreshWise_A2_Project_Report.docx`. Interface screenshots are stored alongside `app.py`.
+The report is `FreshWise_A2_Report.docx`. Interface screenshots are stored alongside `app.py`.
