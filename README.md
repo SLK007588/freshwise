@@ -23,4 +23,5 @@ A Streamlit prototype for pantry tracking and explainable recipe recommendations
 ## AI assistance
 ChatGPT/Codex helped propose and implement rule-based recommendation code, draft report prose, and organise diagram/storyboard content.
 ## Additional files
-The report is `FreshWise_A2_Report.docx`. Interface screenshots are stored alongside `app.py`.
+The report is `FreshWise_A2_Report.pdf`. Interface screenshots are stored alongside `app.py`.
+
